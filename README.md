@@ -1,8 +1,12 @@
 # Inovtaxon
 Inovtaxon - identification of leaf images
-//Authors:
-//Alessandro Ferreira
-//Deborah Bambil
+
+
+Authors:
+
+
+Alessandro Ferreira
+Deborah Bambil
 //Hemerson Pistori
 
 
