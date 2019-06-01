@@ -1,5 +1,5 @@
 # Inovtaxon
-//Inovtaxon - identification of leaf images
+Inovtaxon - identification of leaf images
 //Authors:
 //Alessandro Ferreira
 //Deborah Bambil
