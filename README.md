@@ -6,12 +6,18 @@ Authors:
 
 
 Alessandro Ferreira
+
+
 Deborah Bambil
-//Hemerson Pistori
 
 
-//Run
-//directory:
+Hemerson Pistori
+
+
+Run
+
+
+directory:
 
 cd src
 python main.py
