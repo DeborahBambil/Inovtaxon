@@ -29,7 +29,7 @@ sudo apt-get install python-pip python-numpy
 sudo apt-get install default-jdk
 pip install -U pip
 ```
-erro pip:
+error pip:
 ```
 sudo python -m pip uninstall pip && sudo apt install python-pip --reinstall
 ```
