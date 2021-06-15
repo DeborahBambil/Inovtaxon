@@ -1,4 +1,4 @@
-![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/inovtaxon.png?raw=true)
+![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/inovtaxon-removebg-preview.png?raw=true)
 
 # Inovtaxon - identification of leaf images
 
