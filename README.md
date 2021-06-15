@@ -21,3 +21,7 @@ bash install.sh
 directory:
 - cd src
 - python main.py
+
+>Reference: BAMBIL, Deborah et al. Plant species identification using color learning resources, shape, texture, through machine learning and artificial neural networks. Environment Systems and Decisions, v. 40, n. 4, p. 480-484, 2020. 
+
+https://doi.org/10.1007/s10669-020-09769-w
