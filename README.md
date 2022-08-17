@@ -6,16 +6,13 @@
 Authors: Alessandro Ferreira; Deborah Bambil; Hemerson Pistori
 
 //Dependencies
-
+### Linux
+- kubuntu trusty 14.04.2 TLS
 - Python 2.7.6
 - Opencv 2.7
 - scikit-image
 - TK Development
 - python-weka-wrapper
-
-//For Ubuntu:
-
-bash install.sh
 
 //Run
 directory:
