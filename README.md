@@ -19,9 +19,7 @@
 1. Navigate to the `src` directory:
    ```bash
    cd src
-1. Run:
-   ```bash
-python main.py
+   python main.py
 
 ## Reference
 Bambil, Deborah, et al. "Plant species identification using color learning resources, shape, texture, through machine learning and artificial neural networks." Environment Systems and Decisions, vol. 40, no. 4, pp. 480-484, 2020.
