@@ -20,6 +20,7 @@
    ```bash
    cd src
 1. Run:
+   ```bash
 python main.py
 
 ## Reference
