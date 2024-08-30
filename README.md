@@ -1,24 +1,25 @@
 ![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/inovtaxon-removebg-preview.png?raw=true)
 
-# Inovtaxon - identification of leaf images
+# Inovtaxon - Identification of Leaf Images
 
+**Authors:** Alessandro Ferreira, Deborah Bambil, Hemerson Pistori
 
-Authors: Alessandro Ferreira; Deborah Bambil; Hemerson Pistori
+## Dependencies
 
-//Dependencies
 ### Linux
-- kubuntu trusty 14.04.2 TLS
+- Kubuntu Trusty 14.04.2 LTS
 - Python 2.7.6
-- Opencv 2.7
+- OpenCV 2.7
 - scikit-image
 - TK Development
 - python-weka-wrapper
 
-//Run
-directory:
-- cd src
-- python main.py
+## Running the Tool
 
->reference the article: BAMBIL, Deborah et al. Plant species identification using color learning resources, shape, texture, through machine learning and artificial neural networks. Environment Systems and Decisions, v. 40, n. 4, p. 480-484, 2020. 
+1. Navigate to the `src` directory:
+   ```bash
+   cd src
+python main.py
 
-> click to download the article https://doi.org/10.1007/s10669-020-09769-w
+## Reference
+Bambil, Deborah, et al. "Plant species identification using color learning resources, shape, texture, through machine learning and artificial neural networks." Environment Systems and Decisions, vol. 40, no. 4, pp. 480-484, 2020.
