@@ -19,6 +19,7 @@
 1. Navigate to the `src` directory:
    ```bash
    cd src
+1. Run:
 python main.py
 
 ## Reference
