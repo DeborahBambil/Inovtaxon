@@ -2,7 +2,7 @@
 
 # Inovtaxon - Identification of Leaf Images
 
-**Authors:** Alessandro Ferreira, Deborah Bambil, Hemerson Pistori
+**Authors:** Deborah Bambil, Alessandro Ferreira, Hemerson Pistori
 
 ## Dependencies
 
